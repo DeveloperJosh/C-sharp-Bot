@@ -6,6 +6,8 @@
 *.user
 *.sln.docstates
 .env
+.vs/
+.vscode/
 
 # Build results
 
